@@ -71,7 +71,7 @@ roles:
   - allinone:
 
 environments:
-- production:
+- essex:
 
 data bags:
 
